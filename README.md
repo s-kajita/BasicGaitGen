@@ -1,7 +1,5 @@
-**BasicGaitGen**
-
-*Matlab code for basic gait generator for students*
-
+##BasicGaitGen
+*Matlab code for basic gait generator for students*<br>
 Please try following commands!
 ```
 cd BasicGaitGen
