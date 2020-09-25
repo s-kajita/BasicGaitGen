@@ -1,7 +1,7 @@
 # BasicGaitGen
 Matlab code for basic gait generator for students
 
-Please try forrowing commands!
+Please try following commands!
 
 >> cd BasicGaitGen
 >> tridiagonal_demo
