@@ -1,5 +1,6 @@
 **BasicGaitGen**
 *Matlab code for basic gait generator for students*
+
 Please try following commands!
 ```
 cd BasicGaitGen
